@@ -9,7 +9,6 @@
 	<meta name="Description" content="Mortgage loan company offering residential and commercial loans. Purchases and refis for residential and commercial in Maryland, DC and Virginia.">
 	<meta name="Keywords" content="Heritage Financial, Annapolis, Loans, Mortgages, Refis, FHA, VA, Maryland, DC, Virginia, Best Rates">
 	<meta name="robots" content="index, follow">
-	<meta name="google-site-verification" content="k-gvzgCeqzfc-oIdNImSGrqjldVzM_mrOlNgp6or05Y" />
     <title>Heritage Financial</title>
     <?php require_once($_SERVER['DOCUMENT_ROOT'].'page_includes/head.php'); ?>
 </head>
