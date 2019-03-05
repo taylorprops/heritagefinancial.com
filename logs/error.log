@@ -115,3 +115,48 @@
 [Mon Feb 25 03:36:16.670456 2019] [php7:error] [pid 22911] [client 142.4.215.116:48414] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
 [Mon Feb 25 08:12:39.701339 2019] [php7:error] [pid 27897] [client 37.59.35.110:36450] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
 [Mon Feb 25 08:13:50.455865 2019] [php7:error] [pid 27642] [client 37.59.35.110:37886] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
+[Mon Feb 25 14:48:25.115479 2019] [php7:error] [pid 5567] [client 157.55.39.187:4299] script '/var/www/heritagefinancial.com/loan_officers.php' not found or unable to stat
+[Mon Feb 25 20:13:17.725028 2019] [php7:error] [pid 18913] [client 88.222.184.114:37366] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
+[Mon Feb 25 21:44:01.722249 2019] [php7:error] [pid 21048] [client 88.222.184.114:33444] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
+[Mon Feb 25 21:58:20.327111 2019] [php7:error] [pid 21272] [client 193.106.30.98:34800] script '/var/www/heritagefinancial.com/LICENSE.php' not found or unable to stat
+[Tue Feb 26 04:48:21.997940 2019] [php7:error] [pid 26571] [client 174.204.21.151:5566] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Tue Feb 26 15:12:06.900244 2019] [php7:error] [pid 16463] [client 193.106.30.98:59824] script '/var/www/heritagefinancial.com/yt2.php' not found or unable to stat
+[Tue Feb 26 19:16:09.865044 2019] [php7:error] [pid 25397] [client 119.29.82.97:56045] script '/var/www/heritagefinancial.com/wp-login.php' not found or unable to stat
+[Wed Feb 27 03:29:23.633943 2019] [autoindex:error] [pid 440] [client 34.212.27.240:43782] AH01276: Cannot serve directory /var/www/heritagefinancial.com/js/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 27 08:30:41.001130 2019] [php7:error] [pid 7189] [client 174.204.40.74:4779] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Wed Feb 27 20:24:35.220857 2019] [php7:error] [pid 5414] [client 174.204.40.74:3792] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Thu Feb 28 03:31:28.520499 2019] [php7:error] [pid 10999] [client 5.135.138.188:53052] script '/var/www/heritagefinancial.com/Jwlsjd_baaqifg.php' not found or unable to stat, referer: heritagefinancial.co
+[Thu Feb 28 04:10:24.848516 2019] [php7:error] [pid 11707] [client 128.199.75.133:46728] script '/var/www/heritagefinancial.com/Jwlsjd_baaqifg.php' not found or unable to stat, referer: heritagefinancial.info
+[Thu Feb 28 17:06:18.550313 2019] [php7:error] [pid 12756] [client 157.55.39.193:2504] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Thu Feb 28 18:06:35.892114 2019] [php7:error] [pid 14487] [client 178.255.215.72:36188] script '/var/www/heritagefinancial.com/calculator.php' not found or unable to stat
+[Thu Feb 28 20:32:06.280308 2019] [autoindex:error] [pid 17977] [client 34.221.161.147:54922] AH01276: Cannot serve directory /var/www/heritagefinancial.com/js/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Fri Mar 01 04:38:33.874841 2019] [php7:error] [pid 22749] [client 174.204.40.74:6110] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Fri Mar 01 06:17:13.404768 2019] [php7:error] [pid 22000] [client 193.106.30.98:47832] script '/var/www/heritagefinancial.com/wp-sbb.php' not found or unable to stat
+[Fri Mar 01 08:37:58.850324 2019] [php7:error] [pid 28776] [client 88.222.184.114:42912] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
+[Fri Mar 01 18:38:03.297746 2019] [php7:error] [pid 22086] [client 174.204.9.116:11360] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Fri Mar 01 22:40:19.073604 2019] [php7:error] [pid 25528] [client 174.204.9.116:10396] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sat Mar 02 04:38:58.840910 2019] [php7:error] [pid 26534] [client 88.222.184.114:60808] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
+[Sat Mar 02 08:10:33.077522 2019] [php7:error] [pid 1206] [client 40.77.167.119:10637] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sat Mar 02 08:18:22.770781 2019] [php7:error] [pid 2236] [client 174.204.9.116:11374] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sat Mar 02 10:38:04.701083 2019] [php7:error] [pid 7613] [client 174.204.9.116:11380] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sat Mar 02 11:31:30.458885 2019] [php7:error] [pid 9650] [client 207.46.13.111:11914] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sat Mar 02 13:08:44.719573 2019] [php7:error] [pid 13001] [client 193.106.30.98:39680] script '/var/www/heritagefinancial.com/st.php' not found or unable to stat
+[Sat Mar 02 14:48:02.977353 2019] [php7:error] [pid 16938] [client 174.204.9.116:11369] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sat Mar 02 19:11:51.823300 2019] [php7:error] [pid 25207] [client 167.114.209.28:50175] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat
+[Sat Mar 02 19:21:04.508302 2019] [php7:error] [pid 25305] [client 5.196.64.109:33558] script '/var/www/heritagefinancial.com/best-rate-guarantee.php' not found or unable to stat, referer: http://www.heritagefinancial.com/best-rate-guarantee.html
+[Sat Mar 02 21:23:32.780424 2019] [php7:error] [pid 26592] [client 174.204.9.116:11385] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sun Mar 03 05:58:58.980763 2019] [php7:error] [pid 1364] [client 40.77.167.210:3076] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sun Mar 03 09:44:32.260670 2019] [php7:error] [pid 6445] [client 207.46.13.180:15993] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sun Mar 03 13:06:06.678110 2019] [php7:error] [pid 15000] [client 207.46.13.180:7794] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Sun Mar 03 15:53:01.996076 2019] [php7:error] [pid 21245] [client 174.204.9.116:3149] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Mon Mar 04 02:40:30.571716 2019] [php7:error] [pid 32199] [client 207.46.13.128:11185] script '/var/www/heritagefinancial.com/loan_officers.php' not found or unable to stat
+[Mon Mar 04 03:53:23.474722 2019] [php7:error] [pid 32197] [client 54.36.148.21:38828] script '/var/www/heritagefinancial.com/staff.php' not found or unable to stat
+[Mon Mar 04 04:15:01.966078 2019] [php7:error] [pid 32199] [client 66.249.79.79:47863] script '/var/www/heritagefinancial.com/staff.php' not found or unable to stat
+[Mon Mar 04 12:30:50.877841 2019] [php7:error] [pid 20490] [client 192.162.244.26:37198] script '/var/www/heritagefinancial.com/wp-login.php' not found or unable to stat
+[Mon Mar 04 21:18:13.416911 2019] [php7:error] [pid 18594] [client 207.46.13.214:7364] script '/var/www/heritagefinancial.com/staff.php' not found or unable to stat
+[Tue Mar 05 07:54:21.127878 2019] [php7:error] [pid 29422] [client 174.205.10.195:9836] script '/var/www/heritagefinancial.com/jobs.php' not found or unable to stat
+[Tue Mar 05 08:46:27.174644 2019] [php7:error] [pid 32330] [client 40.77.167.21:22293] script '/var/www/heritagefinancial.com/loan_officers.php' not found or unable to stat
+[Tue Mar 05 10:57:57.718610 2019] [php7:error] [pid 7466] [client 193.106.30.98:39892] script '/var/www/heritagefinancial.com/wp-rdf.php' not found or unable to stat
+[Tue Mar 05 13:10:02.880739 2019] [php7:error] [pid 18065] [client 94.130.66.21:23316] script '/var/www/heritagefinancial.com/career-opportunities/apply-for-loan.php' not found or unable to stat
+[Tue Mar 05 13:10:14.621824 2019] [php7:error] [pid 18067] [client 94.130.66.21:25626] script '/var/www/heritagefinancial.com/career-opportunities/borrower-information.php' not found or unable to stat
+[Tue Mar 05 13:10:27.744647 2019] [php7:error] [pid 17950] [client 94.130.66.21:27942] script '/var/www/heritagefinancial.com/career-opportunities/careers.php' not found or unable to stat
