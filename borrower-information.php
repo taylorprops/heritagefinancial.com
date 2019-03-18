@@ -173,7 +173,7 @@
 			<!--Grid row-->
 
 			<!--Grid row-->
-			<div class="row pb-3 wow fadeInRight">
+			<!--div class="row pb-3 wow fadeInRight">
 				<div class="card bg-color-1-dark text-left z-depth-2">
 					<div class="card-body">
 						<p class="buyer-header">How do I know how much I can afford?</p>
@@ -182,7 +182,7 @@
 						</p>
 					</div>
 				</div>
-			</div>
+			</div-->
 			<!--Grid row-->
 
 			<!--Grid row-->

@@ -18,7 +18,7 @@
                 <ul class="collapsible collapsible-accordion">
                     <li><a class="navbar-link waves-effect" href="index.html" rel="canonical"><i class="fal fa-fw fa-home"></i> Home</a></li>
                     <li><a class="navbar-link waves-effect" href="apply-for-loan.html" rel="canonical"><i class="fal fa-fw fa-pencil-alt"></i> Apply For A Loan</a></li>
-                    <li><a class="navbar-link waves-effect" href="https://www.titlecapture.com/app/30/account/pub/quote?c=heritagetitle" target="_blank"><i class="fal fa-fw fa-calculator" aria-hidden="true"></i>Get An Instant Quote</a></li>
+                    <!--li><a class="navbar-link waves-effect" href="https://www.titlecapture.com/app/30/account/pub/quote?c=heritagetitle" target="_blank"><i class="fal fa-fw fa-calculator" aria-hidden="true"></i>Get An Instant Quote</a></li-->
                     <li><a class="navbar-link waves-effect" href="careers.html" rel="canonical"><i class="fal fa-fw fa-info-circle"></i> Careers</a></li>
                     <li><a class="navbar-link waves-effect" href="borrower-information.html" rel="canonical"><i class="fal fa-fw fa-users"></i> Buyers/Borrowers</a></li>
                     <li><a class="collapsible-header waves-effect arrow-r"><i class="fal fa-fw fa-phone"></i> Contact Us<i class="fal fa-angle-down rotate-icon"></i></a>

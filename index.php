@@ -101,15 +101,14 @@
                         <div class="card-body text-left">
 
                             <p class="card-text">
-                                <strong>Access our Closing Cost App</strong>
+                                <strong>Call us today for:</strong>
                                 <br>
-                                Features:<br>
                                 Title Quotes<br>
                                 Loan Estimate Quotes<br>
                                 Seller Net Sheets<br>
                                 Buyer Estimates<br>
                                 ALTA Settlement Statements<br>
-                                <button type="button" class="btn btn-default z-depth-3 show-quote float-right mt-4">Access App</button>
+                                <!--button type="button" class="btn btn-default z-depth-3 show-quote float-right mt-4">Access App</button-->
                             </p>
                         </div>
                         <!--/.Card content-->
